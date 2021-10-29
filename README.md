@@ -1,8 +1,13 @@
 # Quotes App
+
 React (hooks)
+
 Routing with react-router
+
 data stored in Firebase real time database
+
 hosted in Firebase
+
 TRY the [DEMO](https://quotes-app-4d740.web.app/quotes)
 
 # Getting Started with Create React App
