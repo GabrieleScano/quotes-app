@@ -1,3 +1,7 @@
+# Quotes App using 
+React (hooks)
+Routing with react-router
+data stored in Firebase/Firestone
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
